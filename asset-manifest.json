@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/netflix-rebuilding/static/css/main.101c5c45.css",
+    "main.js": "/netflix-rebuilding/static/js/main.94bfc3e8.js",
+    "static/media/Netflix_Logo.jpg": "/netflix-rebuilding/static/media/Netflix_Logo.aa96b72b3f713bacb45c.jpg",
+    "index.html": "/netflix-rebuilding/index.html",
+    "main.101c5c45.css.map": "/netflix-rebuilding/static/css/main.101c5c45.css.map",
+    "main.94bfc3e8.js.map": "/netflix-rebuilding/static/js/main.94bfc3e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.101c5c45.css",
+    "static/js/main.94bfc3e8.js"
+  ]
+}
